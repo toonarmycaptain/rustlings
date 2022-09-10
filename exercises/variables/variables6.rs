@@ -3,7 +3,7 @@
 
 // I AM NOT DONE
 
-const NUMBER = 3;
+const NUMBER: i8 = 3; //constants must have their type declared
 fn main() {
     println!("Number {}", NUMBER);
 }
